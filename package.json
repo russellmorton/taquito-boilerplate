@@ -31,5 +31,8 @@
   },
   "dependencies": {
     "@taquito/taquito": "^10.2.0"
+  },
+  "scripts": {
+    "start": "node your-script.js"
   }
 }
